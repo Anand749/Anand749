@@ -215,49 +215,9 @@ A student-led EdTech platform connecting college aspirants with senior mentors.
 
 <!-- ======================= GITHUB STATS ======================= -->
 
-<h2 align="center">📊 GITHUB ANALYTICS</h2>
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Anand749&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anand749&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Anand749&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 <!-- ======================= ACTIVITY ======================= -->
-
-<h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anand749&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-<!-- ======================= SNAKE ======================= -->
-
-<h2 align="center">🐍 MY CONTRIBUTIONS</h2>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Anand749/Anand749/output/github-contribution-grid-snake.svg" width="95%"/>
-
-</div>
-
----
 
 <!-- ======================= CURRENT FOCUS ======================= -->
 
@@ -268,7 +228,7 @@ A student-led EdTech platform connecting college aspirants with senior mentors.
 ```text
 ╔══════════════════════════════════════════════╗
 ║                                              ║
-║  🧠 Advanced DSA & Problem Solving           ║
+║  🧠 DSA & Problem Solving                    ║
 ║  ⚙️ Backend Engineering                      ║
 ║  🏗️ System Design                            ║
 ║  🤖 AI / ML                                  ║
